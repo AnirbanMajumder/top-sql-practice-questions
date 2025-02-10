@@ -1,4 +1,4 @@
-SQL Practice Questions
+##SQL Practice Questions
 
 This repository contains a comprehensive collection of SQL questions categorized into Easy, Medium, and Hard levels. Whether you're a beginner learning basic queries or an advanced user tackling complex optimizations, these problems will help sharpen your SQL skills. Each question comes with a solution and explanation to enhance understanding.
 
